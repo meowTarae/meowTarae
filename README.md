@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6A7BA2&height=300&section=header&text=Hi%20There!&fontSize=82&animation=twinkling&fontAlignY=36&fontColor=FFDFDE&desc=I'm%20the%20person%20who%20want%20to%20be%20a%20FE.&descAlignY=52&descAlign=50)
 <br>
 
-<p align="center">
-  <img width="300" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif">
-</p>
-<br>
+
 <p align='center'>
   <h3 align='center'>My stacks</h3>
   <p align="center">
@@ -20,7 +17,11 @@
     </a> 
   </p>
 </p>
-
+<br><br>
+<p align="center">
+  <img width="300" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif">
+</p>
+<br><br>
 <!--
 **meowTarae/meowTarae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
