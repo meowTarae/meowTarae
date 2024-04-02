@@ -6,11 +6,11 @@
   <h3 align='center'>My stacks</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=cpp,html,css,js" />
+     <img src="https://skillicons.dev/icons?i=cpp,html,css" />
     </a>
     <br>
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,react,ts" />
+     <img src="https://skillicons.dev/icons?i=js,react,ts" />
     </a>
   </p>
  
